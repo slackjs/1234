@@ -1,7 +1,6 @@
 {
   "name": "slackjs-teams",
   "version": "1.0.0",
-  "description": "",
   "main": "listen.js",
   "dependencies": {
     "request": "^2.79.0",
@@ -9,8 +8,18 @@
   },
   "devDependencies": {},
   "scripts": {
+    "start": "node listen.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/slackjs/1234.git"
+  },
+  "bugs": {
+    "url": "https://github.com/slackjs/1234/issues"
+  },
+  "homepage": "https://github.com/slackjs/1234#readme",
+  "description": ""
 }
